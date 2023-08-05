@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sougatadutta23
-- 👀 I’m interested in Web Development 
+- 👀 I’m interested in Machine Learning, Deep Learning, Data Science, Artificial Intelligence, Neural Networks and Web Development.
 - 🌱 I’m currently pursuing B.Tech CSE
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me 
